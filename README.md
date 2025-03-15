@@ -1,5 +1,5 @@
 # Finance-Chatbot
-**Code:** (financechatbot)
+**Code:** [financechatbot](https://github.com/Yanjun-Zhou-Clivia/Finance-Chatbot/blob/main/finance%20chatbot.ipynb)
 This project fine-tunes OpenFinAL/GPT2_FINGPT_QA, a pre-trained finance-focused GPT-2 model, to enhance its ability to generate domain-specific financial responses. The model is trained on the Financial PhraseBank dataset to improve performance in financial sentiment interpretation, stock market analysis, and investment strategy guidance.
 
 ---
